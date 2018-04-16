@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FluencyCheckDemo</string>
+    <string name="looper_printer">printer打印</string>
+    <string name="frame_call_back">frame_call_back</string>
+</resources>
