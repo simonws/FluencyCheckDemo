@@ -25,7 +25,7 @@ public class FrameSkipTestActivity extends AppCompatActivity {
         btnShowRecycleView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                boolean isDelay = true;
+                boolean isDelay = false;
                 showRecycleView(isDelay);
             }
         });
